@@ -18,4 +18,4 @@ cctoimage            #function' name
 './labels/'          #labels folder
 
 afer run this script,it will make the dir(images and labels) automatically.
-![Dis](https://github.com/cnaaronchung/labelme2-tools/blob/master/QQ%E6%88%AA%E5%9B%BE20200311180531.png)
+![Dis](https://github.com/cnaaronchung/labelme2-tools/blob/master/1.png)
